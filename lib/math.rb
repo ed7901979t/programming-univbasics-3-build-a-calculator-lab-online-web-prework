@@ -19,7 +19,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  Math.square_root(num)
+  Math.sqrt(25)
 end
 
 addition(5,4)
