@@ -19,7 +19,8 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  c=cmath.sqrt()
+ x = CMath.sqrt() 
+ puts x 
 end
 
 addition(5,4)
