@@ -19,7 +19,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
- x = CMath.sqrt() 
+ x = Math.sqrt() 
  puts x 
 end
 
